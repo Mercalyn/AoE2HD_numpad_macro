@@ -1,6 +1,7 @@
 # AoE2HD_numpad_macro
+USE VIEW RAW
 
-{
+
 SetBatchLines, -1 ; Waiting-time script does not need to run super fast
 defSleep := 20
 longSleep := 40
@@ -107,5 +108,5 @@ loop {
 Numpad3::exitapp
 
 
-}
+
 
